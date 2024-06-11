@@ -1,0 +1,9 @@
+com\noesis\campaign\summary\manager\App.class
+com\noesis\campaign\summary\manager\controller\SummaryMisFormResponseDataGrid.class
+com\noesis\campaign\summary\manager\config\CacheConfig2.class
+com\noesis\campaign\summary\manager\controller\UserController.class
+com\noesis\campaign\summary\manager\reader\MisFinalDlrReader.class
+com\noesis\campaign\summary\manager\config\MisDlrReaderConfig.class
+com\noesis\campaign\summary\manager\service\NgCampaignSummaryService.class
+com\noesis\campaign\summary\manager\reader\MisMessageReader.class
+com\noesis\campaign\summary\manager\config\MisMessageReaderConfig.class
